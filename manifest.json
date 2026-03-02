@@ -1,0 +1,10 @@
+{
+  "name": "airflow-sizing",
+  "description": "Comprehensive sizing assessment for Apache Airflow environments (OSS, MWAA, Google Cloud Composer)",
+  "version": "1.0.0",
+  "author": "Claude Code",
+  "userInvocable": true,
+  "prompts": {
+    "": "airflow-sizing.md"
+  }
+}
