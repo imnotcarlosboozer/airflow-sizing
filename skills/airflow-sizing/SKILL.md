@@ -1,5 +1,6 @@
 ---
 name: airflow-sizing
+# prettier-ignore
 description: This skill should be used when the user asks to "size airflow", "assess airflow", "airflow sizing", "analyze airflow environment", mentions "MWAA", "Cloud Composer", or discusses Apache Airflow capacity planning, migration, or performance assessment.
 version: 1.0.0
 ---
