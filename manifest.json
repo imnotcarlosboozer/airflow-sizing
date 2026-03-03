@@ -1,0 +1,10 @@
+{
+  "name": "airflow-sizing",
+  "description": "Analyze and assess Apache Airflow environments for sizing, capacity planning, and migration. Supports AWS MWAA, Google Cloud Composer, and OSS Airflow.",
+  "version": "1.0.0",
+  "author": "Claude Code",
+  "userInvocable": true,
+  "prompts": {
+    "": "airflow-sizing.md"
+  }
+}
