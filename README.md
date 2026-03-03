@@ -1,6 +1,23 @@
-# Airflow Sizing Assessment Skill
+# Airflow Sizing Assessment Plugin
 
-A comprehensive skill for analyzing Apache Airflow environments across different platforms to support migration planning, cost optimization, and capacity planning.
+A comprehensive Claude Code plugin for analyzing Apache Airflow environments across different platforms to support migration planning, cost optimization, and capacity planning.
+
+## Installation
+
+### Option 1: Install from GitHub
+```bash
+claude plugin install airflow-sizing@github:imnotcarlosboozer/airflow-sizing
+```
+
+### Option 2: Install Locally
+```bash
+git clone https://github.com/imnotcarlosboozer/airflow-sizing.git
+cd airflow-sizing
+# Copy to Claude plugins directory
+cp -r . ~/.claude/plugins/marketplaces/claude-plugins-official/plugins/airflow-sizing/
+```
+
+After installation, restart Claude Code or start a new session.
 
 ## Supported Platforms
 

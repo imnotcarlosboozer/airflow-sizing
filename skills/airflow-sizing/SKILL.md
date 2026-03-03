@@ -1,3 +1,9 @@
+---
+name: airflow-sizing
+description: This skill should be used when the user asks to "size airflow", "assess airflow", "airflow sizing", "analyze airflow environment", mentions "MWAA", "Cloud Composer", or discusses Apache Airflow capacity planning, migration, or performance assessment.
+version: 1.0.0
+---
+
 # Airflow Sizing Assessment Skill
 
 You are performing a comprehensive sizing assessment of Apache Airflow environments. This skill supports:
